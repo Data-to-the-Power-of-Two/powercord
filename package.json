@@ -1,6 +1,6 @@
 {
   "name": "@data2/powercord",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Data2 PowerCord",
   "main": "dist/browser/index.js",
   "browser": "dist/browser/index.js",

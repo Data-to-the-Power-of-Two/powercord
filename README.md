@@ -13,7 +13,7 @@ To start using PowerCord, you need to include the library in your project. You c
 ```html
 <script
   type="text/javascript"
-  src="https://cdn.data2.media/file/powercord-0.0.1.min.js"
+  src="https://cdn.data2.media/file/powercord-0.0.2.min.js"
 ></script>
 ```
 
